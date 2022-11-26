@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "ca008383a6882406",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdc240556adc6101",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a647eb78a37be152",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11abafa642c0adf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa4e43869f70d375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25822b361f0a663a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71f967ef9d0e89c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "928ec8cc5e0b27d3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1f1d28197fe3831",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f4e72dab2d59be0",
+    "type": "split",
+    "children": [
+      {
+        "id": "99efb0fb5dd6bfd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df8c6c5dfcea98e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a28f240fe7e71125",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2de6267d297bb90a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19551cad3dbea5e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cd55c21bfcd0076",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3b3dff82c46aa3d",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1bca24e6fc8224c",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5
+  },
+  "active": "a1bca24e6fc8224c",
+  "lastOpenFiles": [
+    "Zettelkasten/NetBox.md",
+    "Zettelkasten/MAKE iptables FILE IN root DIR (for example).md",
+    "Zettelkasten/Kubernetes Cheat-Sheet.md",
+    "Zettelkasten/issue.net and issue.net.md",
+    "Zettelkasten/INSTALL NETBOXv3 on RockyLinux 8.md",
+    "Zettelkasten/Docker Cheat-Sheet.md",
+    "Zettelkasten/CIVO CLI Cheat-Sheet.md",
+    "Zettelkasten/vmware_tools.ps1.md",
+    "Zettelkasten/Elasticsearch Logstash Kibana ELK server howto.md",
+    "Zettelkasten/Azure_CSBP.md"
+  ]
+}
