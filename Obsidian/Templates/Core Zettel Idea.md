@@ -1,13 +1,11 @@
-		{{date:YYYYMMDD}}/{{time:HHmm}}
+{date:YYYYMMDD}}/{{time:HHmm}}
 
-		Status:#idea
-		
-		Tags:
+Status:#idea
 
-		# {{title}}
+Tags:
+
+# {{title}}
+__________________________________ _________________________________________
 
 
-
-		--
-		# References
-		
+# References

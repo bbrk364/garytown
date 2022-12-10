@@ -1,0 +1,174 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Stocks",
+      "path": "Templates/Stocks.md"
+    },
+    {
+      "basename": "Note",
+      "path": "Templates/Note.md"
+    },
+    {
+      "basename": "Recipes",
+      "path": "Templates/Recipes.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Templates/Untitled.md"
+    },
+    {
+      "basename": "Meeting",
+      "path": "Templates/Meeting.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Templates/Untitled 2.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Templates/Untitled 1.md"
+    },
+    {
+      "basename": "Core Zettel Idea",
+      "path": "Templates/Core Zettel Idea.md"
+    },
+    {
+      "basename": "Deploy a Docker Host On AWS EC2 With Terraform",
+      "path": "Deploy a Docker Host On AWS EC2 With Terraform.md"
+    },
+    {
+      "basename": "Fleeting Template",
+      "path": "Templates/Fleeting Template.md"
+    },
+    {
+      "basename": "Create Azure Log Analytics Workspace With Terraform",
+      "path": "Techs/Windows/Create Azure Log Analytics Workspace With Terraform.md"
+    },
+    {
+      "basename": "Add Tags to Azure Resources with Terraform",
+      "path": "Techs/Windows/Add Tags to Azure Resources with Terraform.md"
+    },
+    {
+      "basename": "Create Windows Server 2022 Virtual Machine On Azure With Terraform",
+      "path": "Techs/Windows/Create Windows Server 2022 Virtual Machine On Azure With Terraform.md"
+    },
+    {
+      "basename": "Add a Secret to Azure Key Vault With Terraform",
+      "path": "Zettelkasten/Add a Secret to Azure Key Vault With Terraform.md"
+    },
+    {
+      "basename": "Updating your installation Lansweeper",
+      "path": "Zettelkasten/Updating your installation Lansweeper.md"
+    },
+    {
+      "basename": "Backing up your installation Lansweeper",
+      "path": "Zettelkasten/Backing up your installation Lansweeper.md"
+    },
+    {
+      "basename": "How to Install Elasticsearch on CentOS 8",
+      "path": "Zettelkasten/How to Install Elasticsearch on CentOS 8.md"
+    },
+    {
+      "basename": "Docker Cheat-Sheet",
+      "path": "Zettelkasten/Docker Cheat-Sheet.md"
+    },
+    {
+      "basename": "CIVO CLI Cheat-Sheet",
+      "path": "Zettelkasten/CIVO CLI Cheat-Sheet.md"
+    },
+    {
+      "basename": "Azure_CSBP",
+      "path": "Zettelkasten/Azure_CSBP.md"
+    },
+    {
+      "basename": "alias",
+      "path": "Zettelkasten/alias.md"
+    },
+    {
+      "basename": "Read a Secret From Azure Key Vault With Terraform",
+      "path": "Read a Secret From Azure Key Vault With Terraform.md"
+    },
+    {
+      "basename": "Use Zero Time Deployment With Terraform and Azure",
+      "path": "Use Zero Time Deployment With Terraform and Azure.md"
+    },
+    {
+      "basename": "Create a Linux Virtual Machine in Azure With Terraform",
+      "path": "Techs/Windows/Create a Linux Virtual Machine in Azure With Terraform.md"
+    },
+    {
+      "basename": "Create Multiple Linux VMs In Azure With Terraform",
+      "path": "Techs/Windows/Create Multiple Linux VMs In Azure With Terraform.md"
+    },
+    {
+      "basename": "Create Azure App Service Plan, MySQL DB and a Web App With Terraform",
+      "path": "Techs/Windows/Create Azure App Service Plan, MySQL DB and a Web App With Terraform.md"
+    },
+    {
+      "basename": "Create an Azure App Service Plan With Terraform",
+      "path": "Techs/Windows/Create an Azure App Service Plan With Terraform.md"
+    },
+    {
+      "basename": "Create multiple Azure App Service Plans With Terraform",
+      "path": "Techs/Windows/Create multiple Azure App Service Plans With Terraform.md"
+    },
+    {
+      "basename": "Use for-Each To Create multiple resources with Terraform",
+      "path": "Use for-Each To Create multiple resources with Terraform.md"
+    },
+    {
+      "basename": "Use Built-in Functions in Terraform Code Configuration",
+      "path": "Use Built-in Functions in Terraform Code Configuration.md"
+    },
+    {
+      "basename": "Create Azure Storage Account With Terraform And Today’s Date",
+      "path": "Techs/Windows/Create Azure Storage Account With Terraform And Today’s Date.md"
+    },
+    {
+      "basename": "Upgrade Terraform on Ubuntu Linux",
+      "path": "Upgrade Terraform on Ubuntu Linux.md"
+    },
+    {
+      "basename": "Configure Azure VM To Auto Shutdown Using Terraform",
+      "path": "Techs/Windows/Configure Azure VM To Auto Shutdown Using Terraform.md"
+    },
+    {
+      "basename": "Create Azure VNET, Subnet and NSG With Terraform",
+      "path": "Techs/Windows/Create Azure VNET, Subnet and NSG With Terraform.md"
+    },
+    {
+      "basename": "Output Azure Virtual Machine Public IP With Terraform",
+      "path": "Output Azure Virtual Machine Public IP With Terraform.md"
+    },
+    {
+      "basename": "Apply Terraform Configuration Without Confirmation",
+      "path": "Techs/Windows/Apply Terraform Configuration Without Confirmation.md"
+    },
+    {
+      "basename": "How to Create a Bastion Host On Azure With Terraform",
+      "path": "How to Create a Bastion Host On Azure With Terraform.md"
+    },
+    {
+      "basename": "How to Authenticate to Azure from Terraform",
+      "path": "How to Authenticate to Azure from Terraform.md"
+    },
+    {
+      "basename": "Create a Windows Server 2022 VM With Terraform on Azure",
+      "path": "Techs/Windows/Create a Windows Server 2022 VM With Terraform on Azure.md"
+    },
+    {
+      "basename": "Public DNS",
+      "path": "Public DNS.md"
+    },
+    {
+      "basename": "Using diskpart via the command line",
+      "path": "Using diskpart via the command line.md"
+    },
+    {
+      "basename": "Installing HP tools for ESXi Hosts (the easy way)",
+      "path": "Installing HP tools for ESXi Hosts (the easy way).md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

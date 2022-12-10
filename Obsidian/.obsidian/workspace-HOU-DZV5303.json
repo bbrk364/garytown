@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "68a883cf62accdce",
+        "id": "9eff768ff7977765",
         "type": "tabs",
         "children": [
           {
-            "id": "49a8126cc3b553a6",
+            "id": "427357764b9f3b8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "How to install the PowerShell Active Directory module.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to install the PowerShell Active Directory module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "How to install the PowerShell Active Directory module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How to install the PowerShell Active Directory module.md"
+              }
             }
           },
           {
@@ -160,17 +169,17 @@
     "direction": "horizontal",
     "width": 376.5
   },
-  "active": "49a8126cc3b553a6",
+  "active": "427357764b9f3b8d",
   "lastOpenFiles": [
-    "Templates/Stocks.md",
-    "Templates/Note.md",
-    "Templates/Recipes.md",
-    "Templates/Untitled.md",
-    "Templates/Meeting.md",
-    "Templates/Untitled 2.md",
-    "Templates/Untitled 1.md",
-    "Templates/Core Zettel Idea.md",
-    "Deploy a Docker Host On AWS EC2 With Terraform.md",
-    "Templates/Fleeting Template.md"
+    "Public DNS.md",
+    "Using diskpart via the command line.md",
+    "Installing HP tools for ESXi Hosts (the easy way).md",
+    "Zettelkasten/NetBox.md",
+    "Zettelkasten/MAKE iptables FILE IN root DIR (for example).md",
+    "Zettelkasten/Kubernetes Cheat-Sheet.md",
+    "Zettelkasten/issue.net and issue.net.md",
+    "Zettelkasten/INSTALL NETBOXv3 on RockyLinux 8.md",
+    "Zettelkasten/Docker Cheat-Sheet.md",
+    "Zettelkasten/CIVO CLI Cheat-Sheet.md"
   ]
 }
